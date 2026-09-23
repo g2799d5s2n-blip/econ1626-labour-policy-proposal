@@ -52,6 +52,16 @@ Regional variation is material — JSA publishes employment-region data — but 
 
 **Assessment.** Efficient, since the methodology is already being rewritten and no new appropriation is required. Equity is favourable given female concentration in exposed occupations. The binding constraint is timing: the Committee reports 30 November 2026, weeks before commencement.
 
+### Option 2: Establish recurrent AI exposure monitoring within Jobs and Skills Australia
+
+**Mechanism.** Convert JSA's Generative AI Capacity Study from a one-off exercise into a standing annual series, combining occupational exposure scores with the Internet Vacancy Index and reporting entry-level vacancy trends disaggregated by region, age and sex. DEWR's monitoring framework already draws on both inputs; this option gives it a recurring mandate and a published cadence.
+
+**Target.** Not workers directly, but the institutions setting policy: JSA, DEWR, Treasury and future parliamentary inquiries.
+
+**Cost.** Approximately $15-25 million annually, against the $9.1 million per year in ongoing funding JSA already receives for its legislated labour market advice.
+
+**Assessment.** Highly feasible, since the analytical infrastructure exists and requires extension rather than construction. Its weakness is directness: it improves the quality of future decisions without altering any current labour market outcome. It is best understood as a complement to Option 1, not a substitute.
+
 ## Recommended Package & Implementation Plan
 
 ## Risks & Mitigations

@@ -74,6 +74,16 @@ Regional variation is material — JSA publishes employment-region data — but 
 
 ## Recommended Package & Implementation Plan
 
+**Recommendation.** Adopt Options 1 and 2 as an integrated package. Option 3 should not proceed as proposed: data centre operators are already recruiting and training without Commonwealth support, and co-funding a pathway the market is financing would deliver poor value. Its underlying constraint — TAFE delivery capacity — is better raised with states through existing National Skills Agreement mechanisms.
+
+**Sequence.** The timing is unusually tight. The Committee reports on 30 November 2026; the revised Priority List methodology and incentive rates commence on 1 January 2027. Option 1 must therefore be settled within that window or wait a further year. Option 2 carries no such constraint and can begin in the 2027-28 Budget cycle.
+
+**Responsibilities.** DEWR administers the incentive criterion and holds the Priority List methodology. JSA supplies exposure scores and would own the monitoring series. Treasury confirms budget neutrality.
+
+**Cost.** Option 1 requires no new appropriation. Option 2 costs $15-25 million annually.
+
+**Indicators.** Entry-level commencements in high-exposure occupations; the gap in employment growth between most- and least-exposed occupations, currently 3.9 percentage points; and publication of the monitoring series with regional, age and sex disaggregation.
+
 ## Risks & Mitigations
 
 ## References

@@ -20,6 +20,10 @@ Each channel carries distributional consequences that national aggregates obscur
 
 ## Analysis of Impacts
 
+**Task automation and augmentation.** Two independent measurement approaches converge on the same conclusion. The ILO's refined index scores exposure at task level across ISCO-08 occupations (Gmyrek et al. 2025), while the OECD maps nine AI capability domains against occupational requirements to construct a capability gap (OECD 2026). Despite differing methods, both identify transformation of occupations rather than wholesale substitution as the dominant pattern, with clerical and routine information-processing work most exposed. Jobs and Skills Australia reaches a broadly consistent view for the Australian labour market.
+
+**Wages.** Exposure currently attracts a premium rather than a penalty. PwC (2026) reports a wage premium of 62 per cent for AI-skilled roles, up from 57 per cent, with AI-related job advertisements rising from 20,000 to 41,000 across 2024-25. This premium is itself distributional: it widens the gap between workers who can access AI training and those who cannot.
+
 ## Policy Options
 
 ## Recommended Package & Implementation Plan

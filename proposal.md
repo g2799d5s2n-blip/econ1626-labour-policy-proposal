@@ -93,3 +93,33 @@ Regional variation is material — JSA publishes employment-region data — but 
 **Implementation.** Monitoring risks becoming procedural. Tie publication to Budget cycles.
 
 ## References
+
+AirTrunk (2024) *Developing Next Gen of Australian Technical Talent*, AirTrunk, Sydney, accessed 24 September 2026. https://airtrunk.com/developing-next-gen-of-australian-technical-talent/
+
+Australian Bureau of Statistics (2026) *Modernising the Labour Force Survey*, ABS, Canberra, accessed 24 September 2026. https://www.abs.gov.au/about/key-priorities/modernising-labour-force-survey
+
+Australian Government (2026) *Budget 2026-27: Budget Paper No. 3 — Federal Financial Relations*, Commonwealth of Australia, Canberra.
+
+Deloitte Access Economics (2026) *Investment Monitor*, August 2026, Deloitte, Sydney.
+
+Department of Employment and Workplace Relations (2026) *AI and Employment in Australia: Monitoring Framework and Evidence to Date*, Office of the Chief Economist, DEWR, Canberra.
+
+Department of Employment and Workplace Relations (2026) *2026-27 Budget*, DEWR, Canberra, accessed 24 September 2026. https://www.dewr.gov.au/about-department/corporate-reporting/budget/202627-budget
+
+Department of Industry, Science and Resources (2026) *Expectations of Data Centres and AI Infrastructure Developers*, DISR, Canberra.
+
+Gmyrek, P., Berg, J., Kamiński, K., Konopczyński, F., Ładna, A., Nafradi, B., Rosłaniec, K. and Troszyński, M. (2025) *Generative AI and Jobs: A Refined Global Index of Occupational Exposure*, ILO Working Paper 140, International Labour Office, Geneva.
+
+Jobs and Skills Australia (2025) *Generative AI Capacity Study*, JSA, Canberra.
+
+Jobs and Skills Australia (2026) *Occupation Shortage Report*, JSA, Canberra.
+
+Merola, R., Ernst, E., Samaan, D., del Rio-Chanona, M. and Teutloff, O. (2026) *Workers' Exposure to AI: What Indicators Tell Us — and What They Don't*, ILO Research Brief, International Labour Office, Geneva.
+
+OECD (2026) *The OECD AI Exposure Measure: Mapping the OECD AI Capability Indicators to Occupations*, OECD Artificial Intelligence Papers No. 59, OECD Publishing, Paris.
+
+Parliament of Australia (2026) *Joint Select Committee on Artificial Intelligence*, Parliament of Australia, Canberra.
+
+Powering Skills Organisation (2026) *2026 Targeted Workforce Update*, PSO, accessed 24 September 2026. https://poweringskills.com.au/workforce-update-2026/
+
+PwC Australia (2026) *AI Jobs Barometer 2026*, PwC, Sydney.

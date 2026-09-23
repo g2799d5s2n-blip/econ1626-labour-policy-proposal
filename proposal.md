@@ -10,6 +10,14 @@ Compositional problems require targeted instruments. Yet the 2026-27 Budget with
 
 ## Problem Definition & Context
 
+On 20 August 2026 the Australian Parliament established a Joint Select Committee on Artificial Intelligence, due to report on 30 November 2026. Its inquiry creates an immediate window in which evidence on AI and the labour market can shape Commonwealth policy settings.
+
+The policy problem is one of measurement as much as of impact. AI is reshaping Australian work through several distinct channels, and the indicators currently available to government capture them unevenly.
+
+Three channels matter. The first concerns whether AI automates or augments tasks within existing occupations. The second concerns wages, where exposure appears to attract a premium rather than a penalty. The third — the focus of this brief — concerns sectoral restructuring and the compression of entry-level recruitment in exposed occupations, alongside derived demand for manual trades from AI infrastructure.
+
+Each channel carries distributional consequences that national aggregates obscure, across regions, age groups and gender. These are addressed in the analysis below.
+
 ## Analysis of Impacts
 
 ## Policy Options

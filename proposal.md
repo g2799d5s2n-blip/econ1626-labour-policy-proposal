@@ -34,6 +34,12 @@ Yet employment among 20-24 year olds has grown slightly faster than among those 
 
 The mechanism runs through physical infrastructure. Deloitte Access Economics (2026) tracks 33 Australian data centre projects worth $104 billion, a fourfold increase in a single year. Building and operating that capacity requires electrical and mechanical trades at scale. The Powering Skills Organisation (2026) estimates 72,000 additional electricians and technicians will be needed by 2030, of which 13,000 are tied directly to data centre construction — against a Skill Level 3 vacancy fill rate of 55.1 per cent (Jobs and Skills Australia 2026).
 
+**Distributional consequences.** The three channels do not fall evenly. Exposure is concentrated in clerical and routine information-processing work rather than in occupations requiring non-standardised physical activity, and that concentration carries a gender profile: men make up 43.7 per cent of Australia's most-exposed group but close to 70 per cent of the least exposed (DEWR 2026), consistent with the ILO's global finding of higher female exposure in high-income economies (Gmyrek et al. 2025).
+
+By age, the aggregate is reassuring and uninformative: employment among 20-24 year olds has outpaced older cohorts, while sectoral trajectories within that figure diverge sharply.
+
+Regional variation is material — JSA publishes employment-region data — but the trades shortage is national in scope.
+
 ## Policy Options
 
 ## Recommended Package & Implementation Plan

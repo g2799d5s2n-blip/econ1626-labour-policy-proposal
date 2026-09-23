@@ -30,6 +30,10 @@ Firm-level evidence is sharper. Jobs and Skills Australia (2025) records employe
 
 Yet employment among 20-24 year olds has grown slightly faster than among those aged 25 and over. Age-based aggregates pool divergent sectoral trajectories; the absence of a youth-level signal is largely uninformative about occupational contraction.
 
+**Derived demand from AI infrastructure.** Skilled manual trades record low direct exposure on task-based measures — electricians score approximately 2.8/10 on Jobs and Skills Australia's occupational exposure scale (JSA 2025). Low exposure, however, is not insulation: it means only that AI does not perform these tasks, not that AI leaves demand for them unchanged.
+
+The mechanism runs through physical infrastructure. Deloitte Access Economics (2026) tracks 33 Australian data centre projects worth $104 billion, a fourfold increase in a single year. Building and operating that capacity requires electrical and mechanical trades at scale. The Powering Skills Organisation (2026) estimates 72,000 additional electricians and technicians will be needed by 2030, of which 13,000 are tied directly to data centre construction — against a Skill Level 3 vacancy fill rate of 55.1 per cent (Jobs and Skills Australia 2026).
+
 ## Policy Options
 
 ## Recommended Package & Implementation Plan

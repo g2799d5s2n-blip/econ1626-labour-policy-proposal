@@ -62,6 +62,16 @@ Regional variation is material — JSA publishes employment-region data — but 
 
 **Assessment.** Highly feasible, since the analytical infrastructure exists and requires extension rather than construction. Its weakness is directness: it improves the quality of future decisions without altering any current labour market outcome. It is best understood as a complement to Option 1, not a substitute.
 
+### Option 3: Co-fund a data centre trades training pathway with industry
+
+**Mechanism.** The constraint in AI infrastructure trades is training capacity rather than demand: employers are already competing for the same electricians and mechanical technicians. AirTrunk's programme — thirty mechanical and electrical apprentices from May 2024, four years to a TAFE qualification, supplemented by the DCD>Academy training programme — demonstrates a workable model at small scale. This option co-funds its expansion, with Commonwealth contribution matched by participating operators and delivered through state TAFE systems.
+
+**Target.** New entrants to electrical and mechanical trades, oriented toward data centre construction and operation — against the 13,000 additional workers tied to that pipeline by 2030.
+
+**Cost.** Roughly $40-60 million over four years, between the two options above.
+
+**Assessment.** Well targeted, but the weakest on feasibility: VET delivery is a state responsibility and the model depends on private operators sustaining co-investment. Deadweight loss is the principal risk, since operators are already recruiting and training without Commonwealth support.
+
 ## Recommended Package & Implementation Plan
 
 ## Risks & Mitigations

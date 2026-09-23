@@ -24,6 +24,12 @@ Each channel carries distributional consequences that national aggregates obscur
 
 **Wages.** Exposure currently attracts a premium rather than a penalty. PwC (2026) reports a wage premium of 62 per cent for AI-skilled roles, up from 57 per cent, with AI-related job advertisements rising from 20,000 to 41,000 across 2024-25. This premium is itself distributional: it widens the gap between workers who can access AI training and those who cannot.
 
+**Sectoral restructuring and entry-level compression.** The aggregate evidence is more supportive of a compositional reading than it first appears. DEWR (2026) finds no broad AI-driven upheaval, but reports that employment in the most AI-exposed occupations grew by 5.6 per cent since November 2022, against 9.5 per cent in the least exposed. It reads this as an early indication of modest slowing in highly exposed occupations rather than proof of job loss.
+
+Firm-level evidence is sharper. Jobs and Skills Australia (2025) records employers shifting recruitment toward more senior and experienced workers and away from junior staff. ReadyTech reported hiring fewer entry-level engineers as it deployed genAI coding assistants, shifting its junior-senior composition; a senior leader saw no business case for training junior engineers as before. JSA concludes that entry-level roles may be more likely to transform than diminish, while the technology sector may be among the first to restructure its entry-level intake.
+
+Yet employment among 20-24 year olds has grown slightly faster than among those aged 25 and over. Age-based aggregates pool divergent sectoral trajectories; the absence of a youth-level signal is largely uninformative about occupational contraction.
+
 ## Policy Options
 
 ## Recommended Package & Implementation Plan

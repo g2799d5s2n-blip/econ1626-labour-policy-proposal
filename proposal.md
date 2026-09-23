@@ -86,4 +86,10 @@ Regional variation is material — JSA publishes employment-region data — but 
 
 ## Risks & Mitigations
 
+**Data.** The ABS Labour Force Survey modernisation suspended detailed industry and occupation tables between April and August 2026, and DEWR's evidence extends only to February 2026. This brief therefore relies on JSA and DEWR analysis rather than current ABS series. Option 2 is the structural remedy; in the interim, conclusions should be treated as provisional and revisited once September 2026 data resume.
+
+**Timing.** If the Priority List methodology is settled before the Committee reports, Option 1 lapses for a year. DEWR should be advised of the criterion independently of the Committee's full reporting timetable.
+
+**Implementation.** Monitoring risks becoming procedural. Tie publication to Budget cycles.
+
 ## References

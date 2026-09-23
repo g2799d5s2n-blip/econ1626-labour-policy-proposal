@@ -42,6 +42,16 @@ Regional variation is material — JSA publishes employment-region data — but 
 
 ## Policy Options
 
+### Option 1: Incorporate AI exposure into the Apprenticeships Priority List methodology
+
+**Mechanism.** The 2026-27 Budget revises the Priority List methodology and incentive rates from 1 January 2027, redirecting employer incentives toward small and medium employers and Group Training Organisations. That redirection operates on firm size and existing priority occupations; it does not account for AI exposure. This option adds exposure as a criterion, making entry-level placements in highly exposed occupations eligible for employer incentives.
+
+**Target.** Employers hiring first-year entrants in exposed clerical, administrative and technical roles — where DEWR (2026) records employment growth of 5.6 per cent against 9.5 per cent in the least exposed.
+
+**Cost.** No new appropriation: the criterion is applied within the reformed incentive structure taking effect on 1 January 2027, which narrows eligibility and returns $266.2 million over four years ($106.3 million annually thereafter) to budget.
+
+**Assessment.** Efficient, since the methodology is already being rewritten and no new appropriation is required. Equity is favourable given female concentration in exposed occupations. The binding constraint is timing: the Committee reports 30 November 2026, weeks before commencement.
+
 ## Recommended Package & Implementation Plan
 
 ## Risks & Mitigations
